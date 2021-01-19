@@ -1,4 +1,6 @@
-## Simulating and interfacing self-driving car sensors in ROS
+# Simulating Navigation and Interfacing of Self-Driving Car Sensors in ROS
+
+![alt text](https://github.com/SujayGouda/ros_self_driving_car_simulation/blob/master/img/car.png)
 
 ### Sensors used:
 * LIDAR
