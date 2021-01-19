@@ -1,16 +1,13 @@
 <?xml version="1.0"?>
 <package>
   <name>robotic_car_simulator</name>
-  <version>1.0.3</version>
+  <version>1.0.0</version>
   <description>
     Metapackage allowing easy installation of simulation components.
   </description>
 
   <buildtool_depend>catkin</buildtool_depend>
-
-  <run_depend>velodyne_description</run_depend>
-  <run_depend>velodyne_gazebo_plugins</run_depend>
-
+  
   <export>
     <metapackage/>
   </export>
