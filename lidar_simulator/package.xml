@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package>
-  <name>velodyne_simulator</name>
+  <name>robotic_car_simulator</name>
   <version>1.0.3</version>
   <description>
-    Metapackage allowing easy installation of Velodyne simulation components.
+    Metapackage allowing easy installation of simulation components.
   </description>
 
   <license>BSD</license>
