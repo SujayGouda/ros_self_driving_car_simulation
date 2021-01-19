@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/SujayGouda/ros_self_driving_car_simulation/blob/master/img/car.png)
 
-### Sensors used:
+## Sensors used:
 * LIDAR
 * GPS
 * Stereo Camera
@@ -11,7 +11,7 @@
 * Laser scanner
 * Ultrasonic sensor
 
-#### LIDAR:
+### LIDAR:
 
 Imported and interfaced Velodyne LIDAR plugin
 
@@ -21,11 +21,11 @@ Sensors data visualization:
 
 ![alt text](https://github.com/SujayGouda/ros_self_driving_car_simulation/blob/master/img/lidar.png)
 
-#### GPS:
+### GPS:
 
 GPS module OxTS is used for generating GPS co-ordinates as rostopic
 
-#### Camera:
+### Camera:
 
 Built-in Gazebo plugins have been used as Stereo and Mono cameras
 
@@ -33,11 +33,11 @@ Visual feed of stereo camera in Gazebo:
 
 ![alt text](https://github.com/SujayGouda/ros_self_driving_car_simulation/blob/master/img/camera.png)
 
-#### IMU:
+### IMU:
 
 Built-in Gazebo plugin for inertial measurement unit (IMU) is interfaced for determining robots orientation, linear acceleration, angular velocity
 
-#### Laser Scanner:
+### Laser Scanner:
 
 Built-in Gazebo plugin for Laser scanner is interfaced  to detect any objects shape, size, orientation, distance, relative motion / relative velocity
 
@@ -46,7 +46,7 @@ Sensor data Visualization of Laser scanner detecting multiple objects:
 ![alt text](https://github.com/SujayGouda/ros_self_driving_car_simulation/blob/master/img/laser.png)
 
 
-#### Ultra-sonic sensor:
+### Ultra-sonic sensor:
 
 Built-in Ultrasonic sensor from hector Gazebo plugins is interfaced for range sensing and obstacle avoidance
 
@@ -55,7 +55,7 @@ Visualization of Ultrasonic sensor data in Rviz:
 ![alt text](https://github.com/SujayGouda/ros_self_driving_car_simulation/blob/master/img/ultrasonic.png)
 
 
-### Autonomous navigation:
+## Autonomous navigation:
 
 Robotic car with hector slam running in Gazebo with a new world:
 
